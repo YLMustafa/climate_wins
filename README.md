@@ -5,7 +5,7 @@ This project explores how supervised machine learning can be applied to historic
 This repository contains Python scripts and Jupyter notebooks developed to explore how supervised machine learning can be used to predict daily weather conditions across Europe. The goal is to assess the performance of various algorithms in identifying climate patterns and provide early insight into the effects of climate change.
 
 ## Project Overview
-Developed for ClimateWins, a European nonprofit, the analysis supports data-driven climate action in the face of increasing extreme weather events. As a data analyst on this project, I took on roles typically filled by a data scientist—exploring tools, optimising models, and building predictive algorithms from scratch. This analysis uses weather data spanning 1960–2022, collected from 15 European weather stations, to assess whether machine learning can accurately predict pleasant vs. unpleasant weather days, and to explore how prediction accuracy varies by geography.
+Developed for ClimateWins, a European nonprofit, the analysis supports data-driven climate action in the face of increasing extreme weather events. As a data analyst on this project, I took on roles typically filled by a data scientist—exploring tools, optimising models, and building predictive algorithms from scratch. This analysis uses weather data spanning 1960–2022, collected from 18 European weather stations, to assess whether machine learning can accurately predict pleasant vs. unpleasant weather days, and to explore how prediction accuracy varies by geography.
 
 ## Key Questions Addressed
 Can supervised machine learning accurately predict daily weather outcomes?
@@ -22,7 +22,7 @@ Which algorithm performs best for these tasks: K-Nearest Neighbors, Decision Tre
   - Precipitation
   - Snow
   - Global radiation
-- Stations: 15 locations across mainland Europe
+- Stations: 18 locations across mainland Europe
 - Data Quality: Complete (no missing values)
 - File Type: CSV (~16MB)
 
