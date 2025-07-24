@@ -54,4 +54,5 @@ Matplotlib, Seaborn – visualising temperature trends, predictions, and confusi
 ## Final Presentation
 Summary of insights and recommendations presented in:
 
-[Download PowerPoint Presentation] (1.6_Presenting_Machine_Learning_Results_v2.pptx)
+[Download PowerPoint Presentation] (https://github.com/YLMustafa/climate_wins/1.6_Presenting_Machine_Learning_Results_v2.pptx)
+
