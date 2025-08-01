@@ -14,7 +14,7 @@ Can ML models detect early signs of climate change, such as increased unpleasant
 Which algorithm performs best for these tasks: K-Nearest Neighbors, Decision Trees, or Artificial Neural Networks?
 
 ## Data Set Information 
-- Source: European Climate Assessment & Dataset (ECA&D)
+- Source: [European Climate Assessment & Data Set project](https://www.ecad.eu/)
 - Period Covered: 1960–2022
 - Variables Included:
   - Temperature
@@ -24,7 +24,7 @@ Which algorithm performs best for these tasks: K-Nearest Neighbors, Decision Tre
   - Global radiation
 - Stations: 18 locations across mainland Europe
 - Data Quality: Complete (no missing values)
-- File Type: CSV (~16MB)
+- File Type: CSV (~16MB) https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv 
 
 ## Tools Used
 Python – for data preprocessing, model training, and evaluation
