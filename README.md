@@ -24,7 +24,8 @@ Which algorithm performs best for these tasks: K-Nearest Neighbors, Decision Tre
   - Global radiation
 - Stations: 18 locations across mainland Europe
 - Data Quality: Complete (no missing values)
-- File Type: CSV (~16MB) Download the temperature data set (.csv, 16.6MB).
+- File Type: CSV (~16MB)
+- [Download the temperature data set (.csv, 16.6MB)](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv)
   
 ## Tools Used
 Python – for data preprocessing, model training, and evaluation
